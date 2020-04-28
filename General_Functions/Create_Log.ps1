@@ -1,4 +1,4 @@
-$logFile = "c:\temp\Logs.txt"
+$logFile = "c:\temp\Logs.txt" 
 
 function Write-Log($text) {
 
